@@ -6,6 +6,4 @@ public class GoldMedalReporter {
         System.out.println("Gold medal awarded to " + country);
     }
 
-
-
 }
